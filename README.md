@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Root Sample
 
 This example demonstrates how to share data between multiple surfaces and 3D roots
@@ -26,3 +27,6 @@ To use this demo, you'll need your own API Key for Google Poly. Follow
 Once you have your key, you can add it to the `Store.initialize()` call in
 `index.js`. Run your app's server with `npm start`, and load
 `http://localhost:8081/` to view it!
+=======
+# S2VRDemo
+>>>>>>> a6a6c98697f274bb7f2c0ecd33999e96ce405226
